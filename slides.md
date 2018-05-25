@@ -115,12 +115,11 @@ Há lugar para um profissional com treinamento científico na indústria tech?
 
 # Onde estão os empregos?
 
-QUANTIDADE DE MESTRES E DOUTORES POR ANO DE CONCLUSÃO Considerando os registrados na plataforma Lattes
+Por ano de conclusão de acordo com a plataforma Lattes:
 
-<!-- <img src="images/nexo-phd.png" style="width:200px"> -->
-FIGURA COM COPYRIGHT.
+<img src="images/nexo-phd.png" style="width:650px">
 
-fonte: https://www.nexojornal.com.br/grafico/2018/05/23/Qual-o-gênero-e-a-idade-de-mestres-e-doutores-no-Brasil
+fonte: [nexojornal.com.br](https://www.nexojornal.com.br/grafico/2018/05/23/Qual-o-gênero-e-a-idade-de-mestres-e-doutores-no-Brasil)
 
 # Demanda pelo profissional RSE
 
