@@ -1,0 +1,31 @@
+name: bioinfo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - pypy2.7
+  - r-base=3.4.1
+  - cartopy
+  - erddapy
+  - geolinks
+  - geopandas
+  - gitpython
+  - ioos_tools
+  - ipykernel
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - netcdf4<1.4
+  - palettable
+  - pandas
+  - pandoc
+  - pyoos
+  - r-ggplot2
+  - r-obistools
+  - r-robis
+  - retrying
+  - rpy2
+  - scikit-learn
+  - pip:
+    - git+https://github.com/python-visualization/folium.git
+
