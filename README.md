@@ -1,8 +1,8 @@
-## PythonSul 2018
+## BioInfo seminar 25th May 2018
 
 Rendered versions:
 
-https://ocefpaf.github.io/PythonSulKeynote
+https://ocefpaf.github.io/bioinfo/
 
 Use the Makefile to create and manage the slides:
 
